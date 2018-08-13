@@ -1,0 +1,262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python_RUN.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python_RUN.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/_posts/2018-08-11-Welcome.md",
+		"/Users/alexfrancisco/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/minima-2.5.0/_layouts/home.html",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/_config.yml",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/index.md",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/_layouts/posts.html",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/Gemfile",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/_layouts/default.html",
+		"/Users/alexfrancisco/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/jekyll-theme-midnight-0.1.1/_layouts/default.html",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/test_site/_posts/2018-08-11-welcome-to-jekyll.markdown",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/test_site/_layouts/post.html",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/test_site/_drafts/2018-08-11-new-site.markdown",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/test_site/about.md",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/test_site/.gitignore",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/posts.md",
+		"/Library/LaunchDaemons/com.adobe.agmservice.plist",
+		"/Users/alexfrancisco/test.py",
+		"/Users/alexfrancisco/Library/Application Support/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/Users/alexfrancisco/Library/Application Support/Sublime Text 3/Packages/User/Python_RUN.sublime-build"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.723300970874,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "alexfrancisco.github.io.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

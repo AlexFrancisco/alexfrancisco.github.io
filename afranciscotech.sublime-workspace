@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "posts.md",
+			"settings":
+			{
+				"buffer_size": 427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "alex@Alex-Mac-Mini:~/Documents/alexfranciscotech/alexfrancisco.github.io$                              \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n                                                                                                       \n",
+			"settings":
+			{
+				"buffer_size": 3016,
+				"line_ending": "Unix",
+				"name": "Terminal",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python_RUN.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python_RUN.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io"
+	],
+	"file_history":
+	[
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/index.md",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/_posts/2018-08-11-Welcome.md",
+		"/Users/alexfrancisco/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/minima-2.5.0/_layouts/home.html",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/_config.yml",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/_layouts/posts.html",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/Gemfile",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/_layouts/default.html",
+		"/Users/alexfrancisco/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/jekyll-theme-midnight-0.1.1/_layouts/default.html",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/test_site/_posts/2018-08-11-welcome-to-jekyll.markdown",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/test_site/_layouts/post.html",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/test_site/_drafts/2018-08-11-new-site.markdown",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/test_site/about.md",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/test_site/.gitignore",
+		"/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io/posts.md",
+		"/Library/LaunchDaemons/com.adobe.agmservice.plist",
+		"/Users/alexfrancisco/test.py",
+		"/Users/alexfrancisco/Library/Application Support/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/Users/alexfrancisco/Library/Application Support/Sublime Text 3/Packages/User/Python_RUN.sublime-build"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "posts.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3016,
+						"regions":
+						{
+							"0,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										4
+									]
+								],
+								"scope": "terminalview.black_cyan"
+							},
+							"0,19":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										19,
+										72
+									]
+								],
+								"scope": "terminalview.black_brown"
+							},
+							"0,5":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										5,
+										19
+									]
+								],
+								"scope": "terminalview.black_green"
+							}
+						},
+						"selection":
+						[
+							[
+								751,
+								751
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"caret_style": "blink",
+							"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+							"default_dir": "/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"scroll_past_end": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminal_view": true,
+							"terminal_view_activate_args":
+							{
+								"cmd": "/bin/bash -l",
+								"cwd": "/Users/alexfrancisco/Documents/alexfranciscotech/alexfrancisco.github.io",
+								"keep_open": false,
+								"syntax": null,
+								"title": "Terminal"
+							},
+							"terminal_view_last_cursor_pos":
+							[
+								0,
+								74
+							],
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "afranciscotech.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
